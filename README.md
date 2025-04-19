@@ -1,4 +1,4 @@
-# Cloud Build CI/CD Example
+# Cloud Build CI/CD Handson project
 
 This project demonstrates how to set up a CI/CD pipeline using Google Cloud Build. The pipeline will:
 1. Build a Docker image for a Node.js app.
