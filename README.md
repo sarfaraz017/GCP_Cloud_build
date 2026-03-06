@@ -53,11 +53,5 @@ kubectl get svc
 
 Visit the external IP in your browser to see the app running!
 
-## Resources
-
-- [Cloud Build Documentation](https://cloud.google.com/build/docs)
-- [Google Kubernetes Engine (GKE)](https://cloud.google.com/kubernetes-engine)
-
-## License
-
-This project is licensed under the MIT License.
+## Author
+Mohd Sarfaraz Alam
